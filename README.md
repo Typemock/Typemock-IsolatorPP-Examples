@@ -1,10 +1,11 @@
-## Typemock Isolator++ C++ Examples
+## Typemock Isolator++ For C/C++ Examples
 
-Welcome to the official example repository for Typemock Isolator++, the most advanced mocking framework for C++.
+Welcome to the official example repository for [Typemock Isolator++](https://www.typemock.com/isolatorpp-product-page/?utm_source=github&utm_medium=readme&utm_campaign=isolatorpp_examples), the most advanced mocking framework for C/C++.
 
 This repository contains real-world and minimal examples that demonstrate how to write unit tests for hard-to-test C++ code, including global functions, constructors, legacy code, and inline and virtual methods, using Typemock’s native C++ engine.
 
-🚀 About Typemock Isolator++
+## 🚀 About Typemock Isolator++
+
 Typemock Isolator++ is a powerful mocking framework for C++ that enables complete isolation and mocking of any function, including those traditionally considered unmockable.
 
 It allows you to:
@@ -14,7 +15,7 @@ It allows you to:
 * Test legacy code without modifying it
 * Mock code in static libraries and external binaries
 
-📚 Learn more in the online documentation
+📚 Learn more in the online [documentation](https://www.typemock.com/docs/?book=Ipp&page=introduction.htm)
 
 📁 Folder Structure
 ``` plaintext
@@ -33,9 +34,12 @@ It allows you to:
 
 ✅ Step 1: Install Typemock Isolator++
 
-🔗 [Installation Guide](https://www.typemock.com/docs/?book=Ipp&page=windows_installation.htm)
+Download the installer:
 
 👉 [Download Isolator++](https://www.typemock.com/download-isolator-plus-plus/?utm_source=github&utm_medium=readme&utm_campaign=isolatorpp_examples)
+
+🔗 [Installation Guide](https://www.typemock.com/docs/?book=Ipp&page=windows_installation.htm)
+
 
 
 ✅ Step 2: Clone the Repository
@@ -62,9 +66,9 @@ Run the tests using Test Explorer:
 
 ✅ Step 1: Install Typemock Isolator++ for Linux
 
-🔗 [Installation Guide](https://www.typemock.com/docs/?book=Ipp&page=setting_up_linux.htm)
-
 👉 [Download Isolator++](https://www.typemock.com/download-isolator-plus-plus/?utm_source=github&utm_medium=readme&utm_campaign=isolatorpp_examples)
+
+🔗 [Installation Guide](https://www.typemock.com/docs/?book=Ipp&page=setting_up_linux.htm)
 
 Install the .deb or .rpm package, depending on your system.
 
